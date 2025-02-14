@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/temporalnube/build/static/css/main.dc226f1f.css",
-    "main.js": "/temporalnube/build/static/js/main.0673a968.js",
+    "main.js": "/temporalnube/build/static/js/main.ab4bcca6.js",
     "static/media/home-bg.png": "/temporalnube/build/static/media/home-bg.62a287a4c574f4cefae5.png",
     "static/media/testimonials-bg.png": "/temporalnube/build/static/media/testimonials-bg.ec360b89e4cb398056f7.png",
     "static/media/logo_bcenter.png": "/temporalnube/build/static/media/logo_bcenter.b0f842126eefeab644ba.png",
@@ -11,10 +11,10 @@
     "static/media/slick.woff": "/temporalnube/build/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/temporalnube/build/index.html",
     "main.dc226f1f.css.map": "/temporalnube/build/static/css/main.dc226f1f.css.map",
-    "main.0673a968.js.map": "/temporalnube/build/static/js/main.0673a968.js.map"
+    "main.ab4bcca6.js.map": "/temporalnube/build/static/js/main.ab4bcca6.js.map"
   },
   "entrypoints": [
     "static/css/main.dc226f1f.css",
-    "static/js/main.0673a968.js"
+    "static/js/main.ab4bcca6.js"
   ]
 }
