@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/temporalnube/build/static/css/main.dc226f1f.css",
+    "main.js": "/temporalnube/build/static/js/main.0673a968.js",
+    "static/media/home-bg.png": "/temporalnube/build/static/media/home-bg.62a287a4c574f4cefae5.png",
+    "static/media/testimonials-bg.png": "/temporalnube/build/static/media/testimonials-bg.ec360b89e4cb398056f7.png",
+    "static/media/logo_bcenter.png": "/temporalnube/build/static/media/logo_bcenter.b0f842126eefeab644ba.png",
+    "static/media/slick.svg": "/temporalnube/build/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/temporalnube/build/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/temporalnube/build/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/temporalnube/build/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/temporalnube/build/index.html",
+    "main.dc226f1f.css.map": "/temporalnube/build/static/css/main.dc226f1f.css.map",
+    "main.0673a968.js.map": "/temporalnube/build/static/js/main.0673a968.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc226f1f.css",
+    "static/js/main.0673a968.js"
+  ]
+}
