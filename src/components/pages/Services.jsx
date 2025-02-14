@@ -16,14 +16,14 @@ import "./Services.css";
 AOS.init();
 
 const staffImages = [
-  "/staff/staff1.png",
-  "/staff/staff2.png",
-  "/staff/staff3.png",
-  "/staff/staff4.png",
-  "/staff/staff5.png",
-  "/staff/staff6.png",
-  "/staff/staff7.png",
-  "/staff/staff8.png",
+  "https://estebandeveloperman.github.io/temporalnube/build/staff/staff1.png",
+  "https://estebandeveloperman.github.io/temporalnube/build/staff/staff2.png",
+  "https://estebandeveloperman.github.io/temporalnube/build/staff/staff3.png",
+  "https://estebandeveloperman.github.io/temporalnube/build/staff/staff4.png",
+  "https://estebandeveloperman.github.io/temporalnube/build/staff/staff5.png",
+  "https://estebandeveloperman.github.io/temporalnube/build/staff/staff6.png",
+  "https://estebandeveloperman.github.io/temporalnube/build/staff/staff7.png",
+  "https://estebandeveloperman.github.io/temporalnube/build/staff/staff8.png",
 ];
 
 export const Services = () => {

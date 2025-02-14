@@ -18,7 +18,7 @@ export const About = () => {
 
         {/* Imagen a la derecha */}
         <div className="about-image" data-aos="fade-left">
-          <img src="/images/about/foto_about_basketcenter.jpg" alt="Nuestro Equipo" />
+          <img src="https://estebandeveloperman.github.io/temporalnube/build/images/about/foto_about_basketcenter.jpg" alt="Nuestro Equipo" />
         </div>
       </div>
     </section>

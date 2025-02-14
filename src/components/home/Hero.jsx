@@ -7,7 +7,7 @@ export const Hero = () => {
   return (
     <section className="hero">
       <video autoPlay loop muted className="video-bg">
-        <source src="/videos/video_bg_basket.mp4" type="video/mp4" />
+        <source src="https://estebandeveloperman.github.io/temporalnube/build/videos/video_bg_basket.mp4" type="video/mp4" />
       </video>
       <div className="overlay"></div>
       <div className="heroContent">
